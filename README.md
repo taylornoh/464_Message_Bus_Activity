@@ -31,7 +31,7 @@ Notification Service sends messages to User Service and Order Service about noti
 
 # To Run:
 
-1. Navigate to the directory where your desired service python file is
+1. Navigate to the directory where your desired service python file is: "<service_directory>/src/"
 2. Run "python <service>.py
 3. On a separate terminal, navigate to the corresponding service's directory
 4. Run "python <other-service.py"
